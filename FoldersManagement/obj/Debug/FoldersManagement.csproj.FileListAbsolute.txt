@@ -1,0 +1,11 @@
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\bin\Debug\FoldersManagement.exe.config
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\bin\Debug\FoldersManagement.exe
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\bin\Debug\FoldersManagement.pdb
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.Form1.resources
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.Properties.Resources.resources
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.exe
+C:\Users\Hamza\source\repos\FoldersManagement\FoldersManagement\obj\Debug\FoldersManagement.pdb
